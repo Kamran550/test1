@@ -1,16 +1,21 @@
-# Project Name
+# Heading 1
+## Heading 2
+### Heading 3
 
-A brief description of the project.
+*italic*
+_italic_
+**bold**
+__bold__
 
-## Table of Contents
+- Item 1
+- Item 2
+- Item 3
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+1. First item
+2. Second item
+3. Third item
 
-## Installation
 
-Provide instructions on how to install and set up the project. Include any prerequisites or dependencies that need to be installed. You can use code blocks for commands:
+[OpenAI's website](https://openai.com)
 
+![Alt text](image.jpg)

@@ -18,4 +18,4 @@ __bold__
 
 [OpenAI's website](https://openai.com)
 
-![Alt text](image.jpg)
+![Alt text](tree.png)
